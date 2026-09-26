@@ -1,62 +1,45 @@
-<div align="center">
+I'm a Full Stack Web Developer focused on building practical web applications with clean architecture, real-time features, scalable backend services and modern frontend experiences.
 
-# Aleksandr Smirnov
+My main stack is **Laravel + Vue + TypeScript**. I work across the full application — from APIs, business logic and data processing to interactive interfaces, asynchronous workflows, search and real-time communication.
 
-### Full Stack Web Developer
-
-Building modern web applications with **Laravel, Vue and TypeScript**.
-
-<a href="https://sm1rnov.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-sm1rnov.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
-</a>
-
-</div>
-
----
-
-## About
-
-I'm a Full Stack Web Developer focused on building practical web applications with clean architecture, real-time features and modern tooling.
-
-I enjoy working across the stack — from backend APIs and business logic to interactive Vue interfaces, asynchronous processing and real-time communication.
-
-My main focus is **Laravel + Vue + TypeScript**, with a growing interest in AI-powered products and developer tooling.
+I'm also interested in **AI-powered applications, developer tools and system design**.
 
 ---
 
 ## Tech Stack
 
 ### Backend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python" alt="Backend technologies">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,nodejs,postgres,redis,docker,nginx" alt="Backend technologies">
 </p>
 
-**PHP · Laravel · Node.js · Python**
+**PHP · Laravel · Laravel Octane · PostgreSQL · Redis · RabbitMQ · Kafka · Docker · Nginx**  
+Eloquent · Queues · Horizon · Reverb · Scout / Meilisearch
 
 ### Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=vue,ts,pinia,tailwind,vite" alt="Frontend technologies">
 </p>
 
-**Vue 3 · TypeScript · Pinia · Tailwind CSS · Vite**
+**Vue 3 · TypeScript · Pinia · VueUse · Vuetify · Tailwind CSS · Vite**
 
-### Data & Infrastructure
+### APIs & Real-time
+**REST · Inertia · Livewire · WebSockets · Laravel Echo · Laravel Reverb · Broadcasting**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis,rabbitmq,docker,nginx" alt="Data and infrastructure technologies">
-</p>
+### Data & Search
+**PostgreSQL · Redis · Meilisearch · RabbitMQ · Kafka**
 
-**PostgreSQL · SQLite · Redis · RabbitMQ · Docker · Nginx**
+### Architecture & Engineering
+**Clean Architecture · Domain-Driven Design (DDD) · Event-driven systems · Microservices · Queues & background processing**
 
-### Development & Quality
+### Observability & Infrastructure
+**Prometheus · Grafana · Docker · Nginx · Horizon · Telescope**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Development tools">
-</p>
+### Testing & Code Quality
+**Pest · Laravel Pint · Larastan · Rector · ESLint · Prettier**
 
-**Git · GitHub · REST APIs · Testing · Static Analysis · Code Quality**
+### Admin & Developer Tools
+**Filament · Git · GitHub · Postman**
 
 ---
 
@@ -68,22 +51,22 @@ My main focus is **Laravel + Vue + TypeScript**, with a growing interest in AI-p
 
 ### 🛍️ UniSellerHub
 
-A SaaS platform for managing products, inventory and marketplace operations.
+Multi-marketplace SaaS platform for products, inventory and orders with warehouse integration and event-driven sync.
 
-**Stack:** Laravel · Vue 3 · TypeScript · PostgreSQL · Redis · RabbitMQ · Reverb · Meilisearch
+**Stack:** Laravel 13 · Vue 3 · TypeScript · PostgreSQL · Redis · RabbitMQ · Reverb · Meilisearch · Prometheus · Grafana · Go / Python microservices
 
-<a href="https://github.com/a1lan1/unisellerhub">View repository →</a>
+[View repository →](https://github.com/a1lan1/unisellerhub)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧱 Laravel 13 Starter
 
-A production-oriented Laravel/Vue starter focused on maintainable architecture, queues, search and observability.
+Production-oriented Laravel/Vue starter with queues, search, admin panel, observability and modern tooling.
 
-**Stack:** Laravel · Vue 3 · TypeScript · Filament · RabbitMQ · Meilisearch · Prometheus · Grafana
+**Stack:** Laravel 13 · Vue 3 · TypeScript · Filament · RabbitMQ · Horizon · Meilisearch · Octane · Prometheus · Grafana · Pest · Larastan
 
-<a href="https://github.com/a1lan1/laravel13-starter">View repository →</a>
+[View repository →](https://github.com/a1lan1/laravel13-starter)
 
 </td>
 </tr>
@@ -92,22 +75,22 @@ A production-oriented Laravel/Vue starter focused on maintainable architecture, 
 
 ### 🔨 Online Auction
 
-A real-time auction application demonstrating high-performance Laravel architecture and asynchronous workflows.
+Real-time auction demo focused on high-performance Laravel architecture, queues, search and observability.
 
-**Stack:** Laravel · Octane · RoadRunner · Vue 3 · TypeScript · Redis · Meilisearch · Prometheus · Grafana
+**Stack:** Laravel · Octane (RoadRunner) · Vue 3 · TypeScript · Inertia · Redis · Horizon · Meilisearch · Prometheus · Grafana
 
-<a href="https://github.com/a1lan1/online-auction">View repository →</a>
+[View repository →](https://github.com/a1lan1/online-auction)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Realtime Chat
+### 📸 Vue Darkroom
 
-A real-time messenger built around modern Laravel and Vue tooling.
+Lightroom-inspired photo editor with non-destructive editing, crop, colour tools, batch export and keyboard shortcuts.
 
-**Stack:** Laravel · Vue 3 · TypeScript · Pinia · Pusher · Laravel Echo
+**Stack:** Vue 3 · TypeScript · Pinia · Vuetify 3 · Vite · Cropper.js · Canvas · JSZip
 
-<a href="https://github.com/a1lan1/realtime-chat-demo">View repository →</a>
+[View repository →](https://github.com/a1lan1/vue-darkroom) · [Live demo →](https://vuedarkroom.netlify.app)
 
 </td>
 </tr>
@@ -115,44 +98,11 @@ A real-time messenger built around modern Laravel and Vue tooling.
 
 ---
 
-## What I Like Building
-
-```text
-SaaS applications
-Real-time web applications
-REST / API-driven systems
-Asynchronous workflows
-Search-heavy applications
-Developer tools
-AI-powered products
-```
-
----
-
 ## GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=a1lan1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent"
-    height="170"
-    alt="GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1lan1&layout=compact&hide_border=true&langs_count=8&theme=transparent"
-    height="170"
-    alt="Top languages"
-  />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=a1lan1&hide_border=true&area=true&bg_color=00000000&custom_title=Contribution%20Activity"
-    alt="Contribution activity graph"
-  />
+  <img src="./profile/stats.svg" height="170" alt="GitHub statistics" />
+  <img src="./profile/top-langs.svg" height="170" alt="Top languages" />
 </p>
 
 ---
